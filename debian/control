@@ -1,0 +1,13 @@
+Source: dde-account-faces
+Section: deepin
+Priority: optional
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 8),
+
+Package: dde-account-faces
+Architecture: all
+Depends: accountsservice
+Conflicts: deepin-system-settings-module-account
+Description: Deepin Account face Images
+ This package is Deepin Account face Images
