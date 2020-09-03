@@ -9,5 +9,6 @@ Package: dde-account-faces
 Architecture: all
 Depends: accountsservice
 Conflicts: deepin-system-settings-module-account
-Description: Deepin Account face Images
- This package is Deepin Account face Images
+Description: When users are ready to set their own account avatars,
+ Deepin Account avatars provide many beautiful avatars for users to choose from.
+ It is part of Deepin software and DDE (Deepin Desktop Environment).
