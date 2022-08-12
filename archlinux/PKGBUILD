@@ -13,10 +13,6 @@ group=('deepin-git')
 source=('source.tar.gz')
 sha512sums=('SKIP')
 
-prepare() {
-    cd $deepin_source_name
-}
-
 package() {
     cd $deepin_source_name
     make DESTDIR="$pkgdir" install
