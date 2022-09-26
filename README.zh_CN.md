@@ -45,4 +45,4 @@ sudo make install
 - [开发者代码贡献指南](https://github.com/linuxdeepin/developer-center/wiki/Contribution-Guidelines-for-Developers) 
 
 ## 开源许可证
-dde-account-faces 在 [CC0 1.0](LICENSE) 下发布。
+dde-account-faces 在 [GPL-3.0-or-later](LICENSE) 下发布。
