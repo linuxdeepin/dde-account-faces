@@ -2,7 +2,7 @@ Name:           dde-account-faces
 Version:        1.0.12
 Release:        1
 Summary:        Account faces for Linux Deepin
-License:        GPLv2+
+License:        GPL-3.0-or-later
 URL:            https://github.com/linuxdeepin/dde-account-faces
 Source0:        %{name}-%{version}.orig.tar.xz
 BuildArch:      noarch

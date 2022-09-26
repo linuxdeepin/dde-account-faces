@@ -46,4 +46,4 @@ We encourage you to report issues and contribute changes
 - [**Contribution guide for developers**](https://github.com/linuxdeepin/developer-center/wiki/Contribution-Guidelines-for-Developers-en) 
 
 ## License
-dde-account-faces is licensed under [CC0 1.0](LICENSE).
+dde-account-faces is licensed under [GPL-3.0-or-later](LICENSE).
