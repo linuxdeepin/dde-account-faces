@@ -1,3 +1,9 @@
+dde-account-faces (1.0.13) unstable; urgency=low
+
+  * feat: 新增用户头像资源
+
+ -- dengbo <dengbo@uniontech.com>  Thu, 30 Mar 2023 16:53:15 +0800
+
 dde-account-faces (1.0.10-1) unstable; urgency=low
 
   * Autobuild Tag 1.0.10 
