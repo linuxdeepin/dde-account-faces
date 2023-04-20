@@ -1,3 +1,10 @@
+dde-account-faces (1.0.14) unstable; urgency=low
+
+  * chore: 设置默认头像
+  * feat: 新增账户头像
+
+ -- dengbo <dengbo@uniontech.com>  Wed, 19 Apr 2023 18:31:35 +0800
+
 dde-account-faces (1.0.13) unstable; urgency=low
 
   * feat: 新增用户头像资源
