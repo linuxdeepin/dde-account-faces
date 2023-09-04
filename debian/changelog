@@ -1,3 +1,9 @@
+dde-account-faces (1.0.15) unstable; urgency=low
+
+  * fix images in dimensional and flat are placed wrong, thanks to hotime
+
+ -- chenhongtao <chenhongtao@deepin.org>  Mon, 04 Sep 2023 11:18:01 +0800
+
 dde-account-faces (1.0.14) unstable; urgency=low
 
   * chore: 设置默认头像
