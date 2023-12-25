@@ -1,3 +1,9 @@
+dde-account-faces (1.0.16) unstable; urgency=low
+
+  * add new account images
+
+ -- chenhongtao <chenhongtao@deepin.org>  Mon, 25 Dec 2023 10:31:05 +0800
+
 dde-account-faces (1.0.15) unstable; urgency=low
 
   * fix images in dimensional and flat are placed wrong, thanks to hotime
