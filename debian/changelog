@@ -1,3 +1,10 @@
+dde-account-faces (1.0.18) unstable; urgency=medium
+
+  * fix: adjust the icon resources of the avatar
+  * fix: icon name sort error
+
+ -- zhangkun <zhangkun2@uniontech.com>  Thu, 14 May 2026 19:56:46 +0800
+
 dde-account-faces (1.0.17) unstable; urgency=medium
 
   * feat: account faces update
